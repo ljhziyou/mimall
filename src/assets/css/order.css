@@ -1,0 +1,110 @@
+/* 变量 */
+/* 移动端相关设置 */
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  font-size: 1rem;
+}
+/* 工具样式 */
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+/* 主体部分 */
+.order-wrap {
+  width: 100%;
+  margin-top: 2.5rem;
+}
+.order-wrap .order-list {
+  width: 100%;
+}
+.order-wrap .order-list .list-item {
+  width: 100%;
+  border-bottom: 0.4rem solid #f6f6f6;
+}
+.order-wrap .order-list .list-item .order-title {
+  width: 100%;
+  height: 1.95rem;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0 0.5rem;
+  border-top: 0.15rem solid #eee;
+  font-size: 0.65rem;
+  justify-content: space-between;
+}
+.order-wrap .order-list .list-item .order-title .shop-name {
+  display: inline-block;
+  margin-left: 0.15rem;
+  color: #666;
+}
+.order-wrap .order-list .list-item .order-title .success {
+  color: #ff6700;
+}
+.order-wrap .order-list .list-item .order-detail {
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+  border-top: 0.05rem solid #ddd;
+  padding: 0.5rem;
+  align-items: center;
+}
+.order-wrap .order-list .list-item .order-detail .goods-img {
+  width: 4rem;
+  height: 4rem;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  border-radius: 0.1rem;
+  margin-right: 0.5rem;
+}
+.order-wrap .order-list .list-item .order-detail .goods-img img {
+  display: block;
+  width: 100%;
+}
+.order-wrap .order-list .list-item .order-detail .info {
+  width: 9rem;
+  height: 4rem;
+  text-align: left;
+}
+.order-wrap .order-list .list-item .order-detail .info .name {
+  font-size: 0.7rem;
+  color: #333;
+  margin-bottom: 1.25rem;
+}
+.order-wrap .order-list .list-item .order-detail .info .price {
+  font-size: 0.65rem;
+  color: #ff6700;
+}
+.order-wrap .order-list .list-item .order-detail .count {
+  width: 1.5rem;
+  height: 4rem;
+  font-size: 0.7rem;
+  line-height: 4rem;
+  color: #999;
+}
+.order-wrap .order-list .list-item .total-price {
+  width: 100%;
+  height: 2.25rem;
+  line-height: 2.25rem;
+  font-size: 0.6rem;
+  box-sizing: border-box;
+  padding-right: 0.5rem;
+  border-top: 0.05rem solid #ddd;
+  color: #333;
+  text-align: right;
+}
+.order-wrap .order-list .list-item .total-price .num {
+  color: #ff6700;
+}
+.order-wrap .order-list .list-item .total-price .total {
+  font-size: 0.7rem;
+  color: #ff6700;
+  margin-right: 0.15rem;
+}

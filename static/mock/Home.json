@@ -1,0 +1,46 @@
+{
+    "goodsList": [
+        {
+            "goodsId": "0001",
+            "goodsName": "红米5",
+            "goodsBrief": "12MP旗舰相机，骁龙处理器",
+            "goodsImg": "hongmi5.webp",
+            "goodsPrice": "799"
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "小米5X 变焦双摄",
+            "goodsBrief": "5.5\"大屏轻薄全金属",
+            "goodsImg": "xiaomi5x.jpg",
+            "goodsPrice": "1299"
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "九号平衡车",
+            "goodsBrief": "年轻人的酷玩具",
+            "goodsImg": "bike.webp",
+            "goodsPrice": "1999"
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "Amazfit Cor手环",
+            "goodsBrief": "彩色IPS触摸屏，50米游泳防水",
+            "goodsImg": "watch.webp",
+            "goodsPrice": "299"
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "小米电视4A 43英寸",
+            "goodsBrief": "全高清 HDR，64位处理器",
+            "goodsImg": "tv4a-43.webp",
+            "goodsPrice": "1599"
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "小米电视4C 55英寸",
+            "goodsBrief": "4K HDR 人工智能系统",
+            "goodsImg": "tv4c-55.webp",
+            "goodsPrice": "2699"
+        }
+    ]
+}

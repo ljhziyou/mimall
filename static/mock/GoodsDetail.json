@@ -1,0 +1,417 @@
+{
+    "goodsDetailList": [
+        {
+            "goodsId": "0001",
+            "goodsName": "红米5",
+            "goodsBrief": "搭载了玩游戏超给力的高通骁龙处理器，后置12MP旗舰相机，前置柔光自拍，配备5.7英寸全面屏。",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/7dc38112-bbf4-f3fa-db39-5f4674f9d0d4!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/7d040eee-5569-5074-864d-8c03f073e8c8!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/e3980743-9d5d-0a8a-9dab-0a37c8b98ef5!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/60acd23a-cd84-700d-a7fe-6bb31e5ff71b!720x792.webp"
+            ],
+            "goodsPrice": "799",
+            "goodsIntroImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2132c260499c16d1869eb626e474bf6f.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5a2b607dedce85d0c297390a1333c092.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e46176f155fb31199d39d34a3bd4cf22.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/30714c8eb8ca8d5c8b788ed911fa82df.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ae5f5354e36511c12c46e1da24a17ffa.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2f2738dc01bc2f83e53ca52443e8ec4c.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/34c2681a5714e0598a57dd798506414a.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe423b34c0f34da80f0da8359344acb0.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/84598e4e-5d4e-46fa-52a4-2fa38b05ec7c.webp",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6cca4e894e086aa86292f75acd45c783.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6cca4e894e086aa86292f75acd45c783.jpg",
+                "https://i8.mifile.cn/v1/a1/0204328e-5e47-56eb-ecce-99086e740bc4.webp",
+                "https://i8.mifile.cn/v1/a1/e0bf1faa-576c-d9c4-4d66-72158f80131f.webp"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0002",
+            "goodsName": "红米Note 5 AI双摄",
+            "goodsBrief": "骁龙636 八核处理器 / 1.4μm大像素 AI 双摄 / 1300万柔光自拍 / 最高可选6GB大内存 / 4000mAh 大电量 / 5.99\" 18:9 全面屏 / 人脸解锁",
+            "goodsBannerImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9cf21c5f9341137a189a830074dd86f7.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8bfb8659e69ce02229f699da867cec7f.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ec6e58f0050363d731228f7b004207d5.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/75d0567749112e976d281b763dc273cb.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/75d0567749112e976d281b763dc273cb.jpg"
+            ],
+            "goodsPrice": "1099",
+            "goodsIntroImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/63bcf275fd8393325c6f343b3c89e5c9.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bfb8f59814fa33003e94451eeaba0f9f.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/202a31934625738bb2e10dcdd2d28118.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/60318395fb54759e52b81a6a2364d6b0.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/40a4b1aa7d68de23177f74f7f4613001.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f3876b42004cfee41a78e9a9aeecc250.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8d37ce698ecdc681ba7fd736a7fb1f2c.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/93dd8c25afce1b7c088fd39f11db9cd1.jpg"
+            ],
+            "goodsParamImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b1d86380567e3092d577c5698ca025a.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8dfb79b2c0ba1a1752964d96ea4ea8fb.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/56c4549d3ff8af86909967947df9abdc.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/731208715c9e61e52b0149eb1ba73315.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "小米5X 4GB+64GB",
+            "goodsBrief": "光学变焦双摄，拍人更美 / 5.5''大屏轻薄全金属 / 骁龙八核处理器 / 4GB大内存",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/2da996b7-4b5d-0b42-917d-fdb27db12dc9!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/090d6b69-5d8b-2895-85f2-13c22577bede!720x792.webp",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/16c29ae096d0d35eaa8a2139b6ed2bd1.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a5b5500ba1f1a1ed3eade6d83ccd64b4.jpg"
+            ],
+            "goodsPrice": "1499",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/749cd8d8-c84a-1412-fb2c-151bd34d82cc.jpg",
+                "https://i8.mifile.cn/v1/a1/c68d5359-a700-7aa5-5e6c-685d95054249.jpg",
+                "https://i8.mifile.cn/v1/a1/aa57a386-739f-8af1-b319-9a745f149e9b.jpg",
+                "https://i8.mifile.cn/v1/a1/51cec16e-4a1d-51b2-7555-27245bc76f7c.jpg",
+                "https://i8.mifile.cn/v1/a1/e0da78b9-43ed-a0bd-a0a9-6bba1df52653.jpg",
+                "https://i8.mifile.cn/v1/a1/5fd88454-2ce0-4c04-40fb-643bc49d023c.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/9598c633-ef3c-2abd-b116-842a693207d4.jpg",
+                "https://i8.mifile.cn/v1/a1/9195687e-c747-0bee-a58a-c7badf1e3e52.jpg",
+                "https://i8.mifile.cn/v1/a1/7652bda7-de3e-5309-b4c4-ed1af686139f.jpg",
+                "https://i8.mifile.cn/v1/a1/6fffe3e6-5e73-4a57-147b-7e02852e37d9.jpg",
+                "https://i8.mifile.cn/v1/a1/325e9f5d-8f40-2a61-029b-a7617873f0c6.jpg",
+                "https://i8.mifile.cn/v1/a1/a5ecbd93-2fc3-3186-a024-13b59f8d6632.jpg",
+                "https://i8.mifile.cn/v1/a1/df09faad-66d0-c305-844d-2d0ddc8020a3.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0004",
+            "goodsName": "小米Note 3  人脸解锁",
+            "goodsBrief": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/341a8d0d-84b4-c8b2-cffa-1beb9c83d114!720x792.webp",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/568b07688b343f667c7040a968f3ee97.jpg",
+                "https://i8.mifile.cn/v1/a1/8ca21046-f1d0-cc61-05ae-222f10611746!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/d0ee4a74-caa9-9f56-bfa1-f97b68aff91f!720x792.webp"
+            ],
+            "goodsPrice": "1799",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/f6b42e48-8af9-c1c1-5df2-eb1973499aae.jpg",
+                "https://i8.mifile.cn/v1/a1/5bb89342-dce9-82d4-59c7-a322376fc1a8.jpg",
+                "https://i8.mifile.cn/v1/a1/8ba93f97-a966-088d-7aa0-21f3a50f08ea.jpg",
+                "https://i8.mifile.cn/v1/a1/1f2ccbc5-8a7c-39ab-9819-5aec14d533b5.jpg",
+                "https://i8.mifile.cn/v1/a1/9356b62d-e15b-a208-72f0-709fe24f6c48.jpg",
+                "https://i8.mifile.cn/v1/a1/f8e52783-b598-2dfd-7057-52c285515119.jpg",
+                "https://i8.mifile.cn/v1/a1/377400bc-747d-0e27-2206-24c12f4dbcf7.jpg",
+                "https://i8.mifile.cn/v1/a1/986ff8fc-e8d7-43dd-2d98-1cbb81fe7548.jpg",
+                "https://i8.mifile.cn/v1/a1/363eafba-9be2-aba5-f5e9-a3759d9cda83.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/533f12c2-d9e6-8e25-deb2-2949330d1a51.jpg",
+                "https://i8.mifile.cn/v1/a1/69e3ce04-8272-fe5c-725f-fd02a2a18ac5.jpg",
+                "https://i8.mifile.cn/v1/a1/69e3ce04-8272-fe5c-725f-fd02a2a18ac5.jpg",
+                "https://i8.mifile.cn/v1/a1/1ce7b719-4916-1522-107b-35bd58d5fe93.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0005",
+            "goodsName": "小米MIX 2",
+            "goodsBrief": "全面屏2.0，5.99\"大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/6ef534bb-6817-f6e2-192a-460e659819b8!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/2ec6acfd-6d81-0bbd-191c-830b91802564!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/59508b3c-fdb4-70b3-1364-d2260478617c!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/ec11c5fb-df45-f78b-90a4-f6012d865830!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/2aa2177d-6b9c-70d2-9d71-9bf5679e2eba!720x792.webp"
+            ],
+            "goodsPrice": "3299",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/c5f6d8bb-dbdb-901f-38fc-4cf7aea1fb86.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c580424ff305584b2287c124bbae8fad.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/24c023e2edda60d019a4a4a5ae519884.jpg",
+                "https://i8.mifile.cn/v1/a1/c056bbb1-6526-75fe-5311-26b44c48de30.jpg",
+                "https://i8.mifile.cn/v1/a1/784c2b86-04af-e26d-8838-5adbc1df6cac.jpg",
+                "https://i8.mifile.cn/v1/a1/2b1127b8-eba1-95e7-bb2b-3b4da5126b69.jpg",
+                "https://i8.mifile.cn/v1/a1/f68d5e02-f395-1ff7-e68d-2f2bca54bedc.jpg",
+                "https://i8.mifile.cn/v1/a1/e6abf914-d5bc-fe69-8e18-bc723d461e35.jpg",
+                "https://i8.mifile.cn/v1/a1/89f62bc7-2098-63d1-ca94-46f4daa95470.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/dbd53e91-75eb-d9e9-0969-326a41435a34.jpg",
+                "https://i8.mifile.cn/v1/a1/0ba33fbe-65c9-424a-f1dc-ca219c89a224.jpg",
+                "https://i8.mifile.cn/v1/a1/869750dc-efd4-ae15-19cc-f83f68c491db.jpg",
+                "https://i8.mifile.cn/v1/a1/e7bf84bc-bbb3-bb1f-3c4e-ca8f5d3c326b.jpg",
+                "https://i8.mifile.cn/v1/a1/4062698e-f975-7985-c03d-0b6e90c25f44.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "九号平衡车",
+            "goodsBrief": "年轻人的酷玩具 / 骑行遥控两种玩法 / 22公里超长续航  / 轻、小、便携 / 重心驱动 / 15重安全保障",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/fa3f65f1-732b-b17f-21ef-f4f243d3a151!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/8d5bc41b-6a15-920f-3f02-cacc7f20641d!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/5e8fac1a-3933-4812-605a-af10efa5a34f!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/26d34e79-67ea-3424-c0b6-9e2ed14ed996!720x792.webp"
+            ],
+            "goodsPrice": "1999",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/T1zCZ_BjDv1RXrhCrK.jpg",
+                "https://i1.mifile.cn/v1/a1/T1iKx_BjZT1RXrhCrK.jpg",
+                "https://i1.mifile.cn/v1/a1/T10JWgBgDT1RXrhCrK.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/647a413c0396a6cedd980b79b7cb16fd.jpg",
+                "https://i8.mifile.cn/v1/a1/2e05666b-e217-b318-16fb-92716d8ce645.jpg",
+                "https://i1.mifile.cn/v1/a1/T1bvxgBbCT1RXrhCrK.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i1.mifile.cn/v1/a1/T1A3J_B4Ev1RXrhCrK.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3fa0b2c92d567132a60c3333f2094446.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/631fdd8f94c30b351758e732708cdb46.jpg",
+                "https://i1.mifile.cn/v1/a1/T1LWL_BbxT1RXrhCrK.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "Amazfit Cor手环",
+            "goodsBrief": "彩色IPS触摸屏 / 50米游泳防水 / 支付宝离线支付 / 大屏一目了然",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/acf6b53b-e8eb-ff0f-1622-6bdeb881604b!720x792.webp",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a4b2293f9e3f55cd4c822bd973dd03b4.jpg",
+                "https://i8.mifile.cn/v1/a1/09f033be-e934-ba0f-19fe-b79bb50f45d5!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/f496659b-3451-380e-bfc1-f671b80f26b2!720x792.webp"
+            ],
+            "goodsPrice": "299",
+            "goodsIntroImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0f3d7c1537c3eb0779f4e9183ba06eec.jpg",
+                "https://i8.mifile.cn/v1/a1/a4d0ba4e-0c0a-3448-36d6-2e000ab70657.webp",
+                "https://i8.mifile.cn/v1/a1/400ede2f-856f-8265-12dd-397719c20c36.webp",
+                "https://i8.mifile.cn/v1/a1/a06f9e68-45b0-36f4-50e2-d403bace1a23.webp",
+                "https://i8.mifile.cn/v1/a1/b30d6256-f0bb-cedd-50fb-26d5911e9dc2.webp",
+                "https://i8.mifile.cn/v1/a1/b9a5008a-801a-e792-4114-41ecb9c2c921.webp"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/daad8ef0-98d6-15e3-1185-e529bebd524c.webp",
+                "https://i8.mifile.cn/v1/a1/d2cff443-b432-aa74-d39f-487e0451984f.webp",
+                "https://i8.mifile.cn/v1/a1/33135843-9967-0db2-2d61-52e31b56526b.webp"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0008",
+            "goodsName": "小米路由器3",
+            "goodsBrief": "全新四天线设计 / 802.11ac 千兆WiFi / 128MB超大Flash配置 / 支持多达126台上网设备连接 / 七重安全防护 / 手机远程控制",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/dd099fbb-e37f-38a9-4398-4b378c344ef3!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/a2d2266c-1615-3104-4749-ade269220bce!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/e682bdd5-9e49-6146-ade1-d68dd9b8e106!720x792.webp"
+            ],
+            "goodsPrice": "149",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/T1tNL_B_hv1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/T1wEd_B5Ev1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/12605b9e-629a-92eb-384c-4ffa998cc4bf.jpg",
+                "https://i8.mifile.cn/v1/a1/T1doC_BQLv1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/T1.cW_B_Yv1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/T15CA_BjAv1RXrhCrK.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/T178h_B_Dv1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/T1.BhvB_xv1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/T1r6A_BsWv1RXrhCrK.jpg",
+                "https://i8.mifile.cn/v1/a1/f2fc1769-b208-e825-72a8-2911b1de309f.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "小米电视4A 43英寸",
+            "goodsBrief": "全高清HDR / 2GB+8GB / 真四核64位高性能处理器 / 超窄边框 / 智能语音 / 杜比音效平板电视 / 支持壁挂",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/959572bc-e1da-4ba7-6852-21796c5edd7e!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/c44c55d6-ed1b-db00-9810-0e45ba15d4f8!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/f482f0a0-d5e7-2413-2837-4d66f38d039d!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/054c40a2-74af-7d5a-92d0-768dac886ae1!720x792.webp"
+            ],
+            "goodsPrice": "1599",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/a4ca4a45-1b87-3acf-e350-166b3553c274.jpg",
+                "https://i8.mifile.cn/v1/a1/c4d5e060-06fe-2702-368a-0c283dfa4f24.jpg",
+                "https://i8.mifile.cn/v1/a1/1446d1e9-1cec-87cd-c993-d418daf37949.jpg",
+                "https://i8.mifile.cn/v1/a1/4a4c67a0-36e3-588f-add6-73d1f23d01b3.jpg",
+                "https://i8.mifile.cn/v1/a1/c08bb4a8-f6b3-adbe-1e72-b1c55fb04465.jpg",
+                "https://i8.mifile.cn/v1/a1/7eb54fea-c1ca-8db5-5560-c09777d1a0ca.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/7adaffd4-df9a-f66c-320f-0e097970c6a3.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/709468f7263c74f4f59a1398360786e5.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/431b9d86975379db5bc960194a2550ff.jpg",
+                "https://i8.mifile.cn/v1/a1/53107a15-0572-b73d-b30b-f3dd37e28c0f.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "小米电视4C 55英寸",
+            "goodsBrief": "人工智能 / 4K HDR / 超窄边 / 大内存 / 钢琴烤漆 / 杜比音效/高性能 / 海量片源",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/d238c597-8a85-0921-01ec-3ebcf73ea1cc!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/0f9845e2-0658-884f-4f4d-4755d88635aa!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/b3f71d40-4ae2-4d34-ca49-7aa9c1cb5fc6!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/84eb7d34-9b06-fdd4-87f5-afc56f0a5e4e!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/8dc913da-820c-6ba4-3e2d-cb0c98602135!720x792.webp"
+            ],
+            "goodsPrice": "2699",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/507fb62c-72f5-1c73-a9fc-b6a363ab98e5.jpg",
+                "https://i8.mifile.cn/v1/a1/132b3366-fe0d-f183-5077-2876d46b4bb7.jpg",
+                "https://i8.mifile.cn/v1/a1/76f8eaa0-cb5d-19ec-d111-95bf0599e097.jpg",
+                "https://i8.mifile.cn/v1/a1/5187ff8d-e936-a43c-ed96-168c25a3f780.jpg",
+                "https://i8.mifile.cn/v1/a1/c80d6448-d67c-19dc-8a93-480235897f50.jpg",
+                "https://i8.mifile.cn/v1/a1/3b027c8e-2c0c-55f0-b844-2114697b0480.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/77784131-be72-2f91-667b-8b548cd98cac.jpg",
+                "https://i8.mifile.cn/v1/a1/9b26983f-780b-bc56-21de-528405121eb1.jpg",
+                "https://i8.mifile.cn/v1/a1/d53a8eb3-aaae-999c-fcf6-53e192d18b10.jpg",
+                "https://i8.mifile.cn/v1/a1/94e02c7f-4689-ead2-3c57-10c714358133.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0011",
+            "goodsName": "小米电视4A 65英寸",
+            "goodsBrief": "4K超高清屏 / 四核64位高性能处理器，支持HDR10 / 2GB+8GB大存储，可选配32GB版 / 人工智能语音 / 支持壁挂",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/ef6b7437-262c-2d04-dd3c-45d64fe3b4f4!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/f1f6b180-6654-e202-9091-d73d3377c9e8!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/fb23c8a7-06d9-0143-f26f-0bf2ec81da11!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/ca98d9b2-9e8f-a29e-d183-02104d2769c8!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/a6c4b58e-92bc-ab8e-5a4e-1092afad061b!720x792.webp"
+            ],
+            "goodsPrice": "4499",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/81add8a3-7ab8-90b6-b853-f87d9db3fa55.jpg",
+                "https://i8.mifile.cn/v1/a1/e955cd54-45f7-10cc-54a7-7a6c627e7123.jpg",
+                "https://i8.mifile.cn/v1/a1/e955cd54-45f7-10cc-54a7-7a6c627e7123.jpg",
+                "https://i8.mifile.cn/v1/a1/8e946cd5-7439-d68b-ffbe-d0d51303faf2.jpg",
+                "https://i8.mifile.cn/v1/a1/bc7f6921-fb0d-6818-26db-94eb4dcd3a57.jpg",
+                "https://i8.mifile.cn/v1/a1/ca223d3a-17a6-f7ec-01f2-3fb7542dc737.jpg"
+            ],
+            "goodsParamImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cc405729fabe344d3c7f15dc783af097.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3fbadc80eaeede97ab336cd88abb7841.jpg",
+                "https://i8.mifile.cn/v1/a1/6e7def81-00f5-439a-b853-8c491acf0580.jpg",
+                "https://i8.mifile.cn/v1/a1/aad47909-c87b-a430-3d17-0fc4a7f77189.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0012",
+            "goodsName": "红米5 Plus",
+            "goodsBrief": "全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/d108bc58-3f1f-3a13-9213-ba2627e00a14!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/c66b6801-f13a-07c7-97b6-361ade5f4a32!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/e4be781a-ced3-3b5c-ba53-6e24d060205d!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/7a31a09f-2796-7c5d-dd1e-50b3fa01e57c!720x792.webp"
+            ],
+            "goodsPrice": "999",
+            "goodsIntroImg": [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/132d7fd835bc740608b1abdfc4b764af.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/85d82b349239b92f4a7c5832a0252a40.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/380ab3921fd22b0807ae620c0c2907cc.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b37b5a36f5503c0b09c551f242b8ab5d.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7372145eaec2e3d62fe50c67fe68d7dd.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/77a71c234eac3560de6697b095351815.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/2416ceb1-7e8f-3675-5b2a-d9d6b22ffd4a.webp",
+                "https://i8.mifile.cn/v1/a1/b619c166-123a-ac03-4af5-15302be73bf9.webp",
+                "https://i8.mifile.cn/v1/a1/43791ee4-7826-d31e-5385-a05809c23f91.webp",
+                "https://i8.mifile.cn/v1/a1/683691ad-10e1-3a58-5804-fbf97cd73481.webp"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        },
+        {
+            "goodsId": "0013",
+            "goodsName": "小米Max 2 64GB",
+            "goodsBrief": "6.44''大屏 / 5300mAh 充电宝级的大电量 / 大像素相机 / 轻薄全金属  / ​4GB 大内存 / 骁龙八核处理器",
+            "goodsBannerImg": [
+                "https://i8.mifile.cn/v1/a1/5a483713-7b6f-b83d-0afe-ef5f4b5fc66b!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/19cd41e0-4721-deca-2204-4a07d606a6f6!720x792.webp",
+                "https://i8.mifile.cn/v1/a1/4f2f5377-d590-40bc-082f-7356bb65a263!720x792.webp"
+            ],
+            "goodsPrice": "1499",
+            "goodsIntroImg": [
+                "https://i8.mifile.cn/v1/a1/d75df573-2480-6a80-cf20-17673f1acdce.jpg",
+                "https://i8.mifile.cn/v1/a1/6a4e6f24-c7b2-8891-0d65-45158dbe2806.jpg",
+                "https://i8.mifile.cn/v1/a1/844d8616-acb7-69bc-e1e8-7afa3110edf4.jpg",
+                "https://i8.mifile.cn/v1/a1/c7848e29-eae0-c51a-ea47-3fcd50b03134.jpg",
+                "https://i8.mifile.cn/v1/a1/00ff0a3a-46fc-b448-1bf7-a2ca73d20c26.jpg",
+                "https://i8.mifile.cn/v1/a1/be7f02f8-06aa-dace-7be7-7e98cae5562f.jpg"
+            ],
+            "goodsParamImg": [
+                "https://i8.mifile.cn/v1/a1/6ade5c1b-0756-5906-e4fd-d5eaf4038530.jpg",
+                "https://i8.mifile.cn/v1/a1/61113eee-f106-52c2-c97c-b64d437c5f74.jpg",
+                "https://i8.mifile.cn/v1/a1/d0f2baa3-8fe5-f2ed-9e6d-dc2223c1bc5e.jpg",
+                "https://i8.mifile.cn/v1/a1/da0403c7-ee18-fe71-a74c-004dbc5f16b6.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg",
+                "https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp"
+            ]
+        }
+    ]
+}

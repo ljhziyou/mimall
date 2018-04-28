@@ -1,0 +1,159 @@
+/* 变量 */
+/* 移动端相关设置 */
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  font-size: 1rem;
+}
+/* 工具样式 */
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+/* 主体部分 */
+/* 顶部导航栏 */
+.nav-header {
+  width: 100%;
+  height: 2.5rem;
+  background-color: #f2f2f2;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+.nav-header .logo-wrap {
+  float: left;
+  width: 2.2205rem;
+  height: 100%;
+}
+.nav-header .logo-wrap .logo-item {
+  float: left;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 2.5rem;
+}
+.nav-header .logo-wrap .logo-item img {
+  width: 50%;
+}
+.nav-header .search-wrap {
+  float: left;
+  width: 11.5595rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.nav-header .search-wrap .search-item {
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+  padding: 0.2rem 0;
+  font-size: 0.7rem;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+}
+.nav-header .search-wrap .search-item .ico-search {
+  float: left;
+  width: 1.333rem;
+  text-align: center;
+}
+.nav-header .user-wrap {
+  float: left;
+  display: flex;
+  align-items: center;
+  width: 2.2205rem;
+  height: 100%;
+}
+.nav-header .user-wrap .user-item {
+  width: 100%;
+  text-align: center;
+}
+.nav-header .user-wrap .user-item .ico-user {
+  font-size: 1rem;
+  color: #666;
+}
+/* 内容区域 */
+.content-wrap {
+  width: 100%;
+  height: auto;
+  margin-top: 2.5rem;
+  margin-bottom: 2.6rem;
+}
+.content-wrap .banner-wrap .banner-item img {
+  width: 100%;
+}
+.content-wrap .nav-list {
+  width: 100%;
+  height: 3.3775rem;
+  margin-bottom: 0.5rem;
+}
+.content-wrap .nav-list .list-item {
+  float: left;
+  width: 20%;
+  height: 100%;
+}
+.content-wrap .nav-list .list-item a {
+  display: block;
+  height: 100%;
+}
+.content-wrap .nav-list .list-item a img {
+  display: block;
+  width: 100%;
+}
+.content-wrap .goods-wrap {
+  width: 100%;
+}
+.content-wrap .goods-wrap .big-item-list {
+  width: 100%;
+}
+.content-wrap .goods-wrap .big-item-list .big-item {
+  margin-bottom: 0.25rem;
+}
+.content-wrap .goods-wrap .big-item-list .big-item img {
+  display: block;
+  width: 100%;
+}
+.content-wrap .goods-wrap .normal-item-list {
+  width: 100%;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item {
+  width: 7.95rem;
+  float: left;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item .img {
+  width: 100%;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item .img img {
+  width: 7.95rem;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item .info {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item .info .name {
+  font-size: 0.7rem;
+  color: #3c3c3c;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item .info .brief {
+  margin-top: 0.15rem;
+  font-size: 0.65rem;
+  color: rgba(0, 0, 0, 0.54);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item .info .price {
+  font-size: 0.6rem;
+  color: #ea625b;
+}
+.content-wrap .goods-wrap .normal-item-list .normal-item:nth-child(odd) {
+  margin-right: 0.1rem;
+}

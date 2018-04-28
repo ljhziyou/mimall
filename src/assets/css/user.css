@@ -1,0 +1,103 @@
+/* 变量 */
+/* 移动端相关设置 */
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  font-size: 1rem;
+}
+/* 工具样式 */
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+/* 主体部分 */
+.user-wrap {
+  width: 100%;
+  position: relative;
+}
+.user-wrap .hd {
+  width: 100%;
+  height: 3.5545rem;
+  background: url(/static/hd-bg.png) center 0 #f37d0f;
+  background-size: auto 100%;
+  padding: 0.7rem 0;
+  box-sizing: border-box;
+}
+.user-wrap .hd .user-logo-box {
+  display: flex;
+  align-items: center;
+}
+.user-wrap .hd .user-logo-box .img {
+  margin: 0 0.35rem 0 0.7rem;
+  width: 2.133rem;
+  height: 2.133rem;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 100%;
+  border: 0.15rem solid rgba(255, 255, 255, 0.4);
+  text-align: center;
+}
+.user-wrap .hd .user-logo-box .img img {
+  width: auto;
+  height: 100%;
+  margin: 0 auto;
+}
+.user-wrap .hd .user-logo-box .name {
+  color: #fff;
+  font-size: 0.6rem;
+  text-align: center;
+}
+.user-wrap .hd .user-logo-box .logout {
+  margin-left: auto;
+  /* 设置flex子元素靠右对齐 */
+  margin-right: 0.6rem;
+}
+.user-wrap .hd .user-logo-box .logout .icon {
+  font-size: 1rem;
+  color: #e3e3e3;
+}
+.user-wrap .order-entry {
+  background-color: #fff;
+  width: 100%;
+  height: 1.7775rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  display: flex;
+}
+.user-wrap .order-entry .order-text {
+  display: flex;
+  align-items: center;
+  width: 14.75rem;
+  justify-content: space-between;
+  font-size: 0.6rem;
+  color: rgba(0, 0, 0, 0.87);
+}
+.user-wrap .order-entry .order-text .my-order {
+  padding-left: 0.7rem;
+}
+.user-wrap .order-entry .order-btn {
+  width: 1.25rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.user-wrap .order-entry .order-btn .btn-wrap {
+  width: 100%;
+  text-align: center;
+}
+.cleardata {
+  position: fixed;
+  bottom: 2.6rem;
+  width: 100%;
+  height: 1.6rem;
+  font-size: 0.7rem;
+  background-color: #f37d0f;
+  color: #fff;
+  line-height: 1.6rem;
+}

@@ -1,0 +1,108 @@
+{
+    "allGoods": [
+        {
+            "goodsId": "0001",
+            "goodsName": "红米5",
+            "goodsBrief": "12MP旗舰相机，骁龙处理器",
+            "goodsImg": "hongmi5.webp",
+            "goodsPrice": "799",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0002",
+            "goodsName": "红米Note 5",
+            "goodsBrief": "1.4μm大像素 AI双摄",
+            "goodsImg": "note5.jpg",
+            "goodsPrice": "1099",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "小米5X 变焦双摄",
+            "goodsBrief": "5.5\"大屏轻薄全金属",
+            "goodsImg": "xiaomi5x.jpg",
+            "goodsPrice": "1299",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0004",
+            "goodsName": "小米Note 3  人脸解锁",
+            "goodsBrief": "1600万美颜自拍",
+            "goodsImg": "note3.webp",
+            "goodsPrice": "1799",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0005",
+            "goodsName": "小米MIX 2",
+            "goodsBrief": "5.99\"大屏，4轴光学防抖",
+            "goodsImg": "mix2.jpg",
+            "goodsPrice": "3299",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "九号平衡车",
+            "goodsBrief": "年轻人的酷玩具",
+            "goodsImg": "bike.webp",
+            "goodsPrice": "1999",
+            "goodsType": "smartdevice"
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "Amazfit Cor手环",
+            "goodsBrief": "彩色IPS触摸屏，50米游泳防水",
+            "goodsImg": "watch.webp",
+            "goodsPrice": "299",
+            "goodsType": "smartdevice"
+        },
+        {
+            "goodsId": "0008",
+            "goodsName": "小米路由器3",
+            "goodsBrief": "全向高增益4天线",
+            "goodsImg": "router3.webp",
+            "goodsPrice": "149",
+            "goodsType": "smartdevice"
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "小米电视4A 43英寸",
+            "goodsBrief": "全高清 HDR，64位处理器",
+            "goodsImg": "tv4a-43.webp",
+            "goodsPrice": "1599",
+            "goodsType": "TV"
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "小米电视4C 55英寸",
+            "goodsBrief": "4K HDR 人工智能系统",
+            "goodsImg": "tv4c-55.webp",
+            "goodsPrice": "2699",
+            "goodsType": "TV"
+        },
+        {
+            "goodsId": "0011",
+            "goodsName": "小米电视4A 65英寸",
+            "goodsBrief": "4K超清大屏，64位处理器",
+            "goodsImg": "tv4a-65.webp",
+            "goodsPrice": "4499",
+            "goodsType": "TV"
+        },
+        {
+            "goodsId": "0012",
+            "goodsName": "红米5 Plus",
+            "goodsBrief": "全面屏，4000mAh大电量",
+            "goodsImg": "hongmi5plus.webp",
+            "goodsPrice": "999",
+            "goodsType": "phone"
+        },
+        {
+            "goodsId": "0013",
+            "goodsName": "小米Max 2 64GB",
+            "goodsBrief": "6.44\"大屏，5300mAh大电量",
+            "goodsImg": "max2.webp",
+            "goodsPrice": "1499",
+            "goodsType": "phone"
+        }
+    ]
+}

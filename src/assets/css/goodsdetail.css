@@ -1,0 +1,156 @@
+/* 变量 */
+/* 移动端相关设置 */
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  font-size: 1rem;
+}
+/* 工具样式 */
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+/* 主体部分 */
+.goodsdetail-wrap {
+  width: 100%;
+  margin-top: 2.5rem;
+  margin-bottom: 2.6rem;
+}
+.goodsdetail-wrap .goods-banner {
+  width: 100%;
+  height: 17.6rem;
+}
+.goodsdetail-wrap .goods-banner img {
+  width: 100%;
+}
+.goodsdetail-wrap .overview {
+  width: 100%;
+  text-align: left;
+  padding: 0.45rem 0.7rem 0;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.goodsdetail-wrap .overview .goods-name {
+  font-size: 0.8rem;
+  line-height: 1.5em;
+  color: #3c3c3c;
+}
+.goodsdetail-wrap .overview .goods-brief {
+  font-size: 0.6rem;
+  line-height: 1.5em;
+  color: rgba(0, 0, 0, 0.54);
+}
+.goodsdetail-wrap .overview .goods-price {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #ff6700;
+  padding: 0.45rem 0;
+}
+.goodsdetail-wrap .buy-count {
+  width: 100%;
+  margin-top: 0.2rem;
+  height: 2.5rem;
+  background-color: #fff;
+  font-size: 0.7rem;
+  display: flex;
+  align-items: center;
+  padding: 0 0.7rem;
+  box-sizing: border-box;
+}
+.goodsdetail-wrap .buy-count .buy-count-btn {
+  margin-left: 0.25rem;
+}
+.goodsdetail-wrap .buy-count .buy-count-btn .btn-minus {
+  display: block;
+  float: left;
+  width: 1.65rem;
+  height: 1.4rem;
+  line-height: 1.4rem;
+  font-size: 1rem;
+  border: 1px solid #b2b2b2;
+  border-right: none;
+}
+.goodsdetail-wrap .buy-count .buy-count-btn .buy-count-num {
+  display: block;
+  float: left;
+  width: 1.65rem;
+  height: 1.4rem;
+  line-height: 1.4rem;
+  font-size: 0.6rem;
+  border: 1px solid #b2b2b2;
+}
+.goodsdetail-wrap .buy-count .buy-count-btn .btn-add {
+  display: block;
+  float: left;
+  width: 1.65rem;
+  height: 1.4rem;
+  line-height: 1.4rem;
+  font-size: 0.8rem;
+  border: 1px solid #b2b2b2;
+  border-left: none;
+}
+.goodsdetail-wrap .information {
+  width: 100%;
+  border-top: 0.3rem solid #f1f1f1;
+  background-color: #fff;
+}
+.goodsdetail-wrap .information .goodsdetail-item-list {
+  width: 100%;
+}
+.goodsdetail-wrap .information .goodsdetail-item-list .goodsdetail-item {
+  width: 100%;
+}
+.goodsdetail-wrap .information .goodsdetail-item-list .goodsdetail-item img {
+  display: block;
+  /* img默认的inline-block属性会造成元素之间有空白间隙 */
+  width: 100%;
+}
+.goodsdetail-footer {
+  width: 100%;
+  height: 2.6rem;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  z-index: 999;
+  background: #fff;
+}
+.goodsdetail-footer .goodsdetail-footer-homepage,
+.goodsdetail-footer .goodsdetail-footer-cart {
+  float: left;
+  width: 3.222rem;
+  color: #666;
+}
+.goodsdetail-footer .goodsdetail-footer-homepage .icon,
+.goodsdetail-footer .goodsdetail-footer-cart .icon {
+  display: block;
+  text-align: center;
+  font-size: 1rem;
+}
+.goodsdetail-footer .goodsdetail-footer-homepage .item-text,
+.goodsdetail-footer .goodsdetail-footer-cart .item-text {
+  font-size: 0.7rem;
+  display: block;
+  text-align: center;
+}
+.goodsdetail-footer .addcart-wrap {
+  float: left;
+  width: 9.5565rem;
+  height: 2.6rem;
+}
+.goodsdetail-footer .addcart-wrap .addcart {
+  display: block;
+  height: 2.65rem;
+  line-height: 2.6rem;
+  text-align: center;
+  background-color: #ff6700;
+  font-size: 0.6rem;
+  color: #fff;
+}
