@@ -7,6 +7,7 @@ import User from '@/views/User'
 import Login from '@/views/Login'
 import Cart from '@/views/Cart'
 import Order from '@/views/Order'
+import Search from '@/views/Search'
 
 Vue.use(Router)
 
@@ -46,6 +47,11 @@ export default new Router({
       path: '/order',
       name: 'Order',
       component: Order
+    },
+    {
+      path: '/search',
+      name: 'Search',
+      component: Search
     }
   ]
 })

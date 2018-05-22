@@ -1,0 +1,124 @@
+/* 变量 */
+/* 移动端相关设置 */
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  font-size: 1rem;
+}
+/* 工具样式 */
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+/* 主体部分 */
+.search-header {
+  width: 100%;
+  height: 2.5rem;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  background-color: #f2f2f2;
+  display: flex;
+  align-items: center;
+}
+.search-header .header-back {
+  float: left;
+  width: 2.2205rem;
+}
+.search-header .header-back .header-back-item {
+  display: block;
+  width: 1.333rem;
+  margin: 0 auto;
+}
+.search-header .header-back .header-back-item .ico-back {
+  color: #666;
+  font-size: 1rem;
+}
+.search-header .input-box {
+  width: 11.5595rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.search-header .input-box .input-text {
+  width: 100%;
+  height: 1.45rem;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  padding-left: 0.5rem;
+}
+.search-header .input-box .input-text::-webkit-input-placeholder {
+  color: #999;
+}
+.search-header .search-logo-box {
+  display: flex;
+  align-items: center;
+  width: 2.2205rem;
+  height: 100%;
+}
+.search-header .search-logo-box .search-logo {
+  width: 100%;
+  text-align: center;
+}
+.search-header .search-logo-box .search-logo .ico-search {
+  font-size: 1rem;
+  color: #666;
+}
+.search-goods-list {
+  width: 100%;
+  margin-top: 0.25rem;
+}
+.search-goods-list .goods-list {
+  background-color: #f6f6f6;
+}
+.search-goods-list .goods-list .list-item {
+  height: 1.75rem;
+  font-size: 0.6rem;
+  line-height: 1.75rem;
+  text-align: left;
+  color: #3c3c3c;
+  padding: 0 0.9rem;
+  border-bottom: 1px solid #ececec;
+}
+.hot-search {
+  width: 100%;
+  margin-top: 2.5rem;
+}
+.hot-search .title {
+  padding: 0 0.65rem;
+  height: 1.75rem;
+  font-size: 0.6rem;
+  line-height: 1.75rem;
+  text-align: left;
+}
+.hot-search .img {
+  width: 100%;
+  height: 4.45rem;
+}
+.hot-search .img img {
+  width: 100%;
+}
+.recommend-item {
+  width: 100%;
+  margin: 0.225rem 0.45rem;
+}
+.recommend-item .item-list {
+  text-align: left;
+}
+.recommend-item .item-list .item {
+  display: inline-block;
+  padding: 0.3111rem 0.44445rem;
+  border: 1px solid #e4e4e4;
+  font-size: 0.6rem;
+  margin: 0.2222rem;
+}
+.recommend-item .item-list .item a {
+  color: #484848;
+}
