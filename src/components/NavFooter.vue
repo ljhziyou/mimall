@@ -2,22 +2,22 @@
   <div>
       <footer class="nav-footer-wrap">
         <div class="nav-footer-list">
-            <router-link to="/" class="nav-footer-item">
+            <div class="nav-footer-item" @click="open('/')">
                 <i class="icon iconfont icon-home" :class="{'active': activeNav=='/'}"></i>
                 <span class="item-text" :class="{'active': activeNav=='/'}">首页</span>
-            </router-link>
-            <router-link to="/categories" class="nav-footer-item">
+            </div>
+            <div class="nav-footer-item" @click="open('/categories')">
                 <i class="icon iconfont icon-fenlei" :class="{'active': activeNav=='/categories'}"></i>
                 <span class="item-text" :class="{'active': activeNav=='/categories'}">分类</span>
-            </router-link>
-            <router-link to="/cart" class="nav-footer-item">
+            </div>
+            <div class="nav-footer-item" @click="open('/cart')">
                 <i class="icon iconfont icon-tianmaochaoshigouwuche"  :class="{'active': activeNav=='/cart'}"></i>
                 <span class="item-text"  :class="{'active': activeNav=='/cart'}">购物车</span>
-            </router-link>
-            <router-link to="/user" class="nav-footer-item">
+            </div>
+            <div class="nav-footer-item" @click="open('/user')">
                 <i class="icon iconfont icon-wo"  :class="{'active': activeNav=='/user'}"></i>
                 <span class="item-text" :class="{'active': activeNav=='/user'}">我的</span>
-            </router-link>
+            </div>
         </div>
     </footer>
   </div>
@@ -27,15 +27,27 @@
 export default {
   data(){
     return {
-      activeNav: ''
+      // activeNav: ''
     }
   },
   mounted: function(){
-    this.tabNav();
+    // this.tabNav();
+  },
+  computed: {
+    activeNav: function(){
+      return this.$route.path;
+    }
   },
   methods: {
-    tabNav(){
-      this.activeNav = this.$route.path;
+    // tabNav(){
+    //   console.log(this.$route.path)
+    //   this.activeNav = this.$route.path;
+    // },
+    open(path){
+      this.activeNav = path;
+      this.$router.push({
+          path: path
+      });
     }
   }
 }

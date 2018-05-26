@@ -77,8 +77,6 @@
             </mt-tab-container-item>
           </mt-tab-container>
       </div>
-
-      <nav-footer></nav-footer>
   </div>
 </template>
 
@@ -86,7 +84,6 @@
 import '@/assets/css/reset.css'
 import '@/assets/css/categories.css'
 import NavHeader from '@/components/NavHeader'
-import NavFooter from '@/components/NavFooter'
 import { Navbar, TabItem } from 'mint-ui'
 import axios from 'axios'
 export default {
@@ -97,8 +94,7 @@ export default {
       }
   },
   components: {
-      NavHeader,
-      NavFooter
+      NavHeader
   },
   mounted: function(){
       this.init();
@@ -158,8 +154,8 @@ export default {
 <style>
 /* 覆盖mint-ui默认样式 */
 .mint-navbar .mint-tab-item.is-selected{
-    border-bottom: 3px solid #ff6700;
-    color: #ff6700;
+    border-bottom: 3px solid #ff6700 !important;
+    color: #ff6700 !important;
 }
 </style>
 

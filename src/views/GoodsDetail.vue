@@ -207,7 +207,7 @@ export default {
 }
 .mint-navbar .mint-tab-item.is-selected{
     border-bottom: none;
-    color: #ff6700;
+    color: #ff6700 !important;
 }
 </style>
 

@@ -23,7 +23,7 @@
                 </router-link>
             </div>
         </div>
-        <div class="recommend-item" v-show="searchList.length == 0">
+        <div class="hot-item" v-show="searchList.length == 0">
             <ul class="item-list">
                 <li class="item"><router-link to="/goodsdetail?id=0013">小米Max2</router-link></li>
                 <li class="item"><router-link to="/goodsdetail?id=0011">小米电视4A</router-link></li>

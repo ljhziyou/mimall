@@ -29,8 +29,6 @@
       <div class="cleardata" @click="clearAll">
           清除所有数据
       </div>
-
-      <nav-footer></nav-footer>
   </div>
 </template>
 
@@ -38,7 +36,7 @@
 import '@/assets/css/reset.css'
 import '@/assets/css/user.css'
 import NavHeader from '@/components/NavHeader'
-import NavFooter from '@/components/NavFooter'
+// import NavFooter from '@/components/NavFooter'
 import { MessageBox } from 'mint-ui'
 import axios from 'axios'
 export default {
@@ -49,8 +47,7 @@ export default {
       }
   },
   components: {
-      NavHeader,
-      NavFooter
+      NavHeader
   },
   mounted: function(){
       this.init();

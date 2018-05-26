@@ -14,7 +14,7 @@
         </div>
         <div class="user-wrap">
             <div class="user-item">
-                <router-link to="/user"><i class="icon iconfont icon icon-wo ico-user"></i></router-link>
+                <div @click="open('/user')"><i class="icon iconfont icon icon-wo ico-user"></i></div>
             </div>
         </div>
     </header>
@@ -80,14 +80,14 @@
         </div>
     </section>
 
-    <nav-footer></nav-footer>
+    <!-- <nav-footer></nav-footer> -->
   </div>
 </template>
 
 <script>
 import '@/assets/css/reset.css'
 import '@/assets/css/homepage.css'
-import NavFooter from '@/components/NavFooter'
+// import NavFooter from '@/components/NavFooter'
 import { Swipe, SwipeItem } from 'mint-ui'
 import axios from 'axios'
 export default {
@@ -97,7 +97,7 @@ export default {
       }
   },
   components: {
-      NavFooter
+      
   },
   mounted:function(){
       this.init();
@@ -119,6 +119,11 @@ export default {
           this.$router.push({
               path: 'goodsdetail',
               query: {id: goodsId}
+          });
+      },
+      open(path){
+          this.$router.push({
+              path: path
           });
       }
   }

@@ -81,7 +81,7 @@
           </div>
       </div>
 
-      <nav-footer></nav-footer>
+      
   </div>
 </template>
 
@@ -89,7 +89,6 @@
 import '@/assets/css/reset.css'
 import '@/assets/css/cart.css'
 import NavHeader from '@/components/NavHeader'
-import NavFooter from '@/components/NavFooter'
 import { MessageBox } from 'mint-ui'
 import { Toast } from 'mint-ui'
 import axios from 'axios'
@@ -103,8 +102,7 @@ export default {
       }
   },
   components: {
-      NavHeader,
-      NavFooter
+      NavHeader
   },
   mounted: function(){
       this.checkUserStatus();
